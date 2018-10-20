@@ -14,7 +14,9 @@ If message is not specified, a portion of 'Lorem Ipsum' is used.
 The server portion of this script is a basic [Echo Server implementation](https://pymotw.com/2/socket/tcp.html).
 
 This portion of the script could be replaced by any echo server that does not delay before responding (Usefull if you are not able to control the server you wish to test against, but it is running an echo server).
-    
+
+To close the server, either send it "QUIT" or, use CRL-C (or CRL-D, depending on OS).
+
 ### Client
 The client or test portion of the script times how long it takes to write a message to the echo server and get the reply. 
 
