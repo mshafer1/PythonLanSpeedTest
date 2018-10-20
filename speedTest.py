@@ -48,7 +48,6 @@ Ad feugiat sanctus sit, perpetua gloriatur eu vis. No quot intellegat mei, id se
 Laoreet periculis sit te, errem deserunt forensibus ius ei, autem reque per ut. Ad est placerat inciderint, in porro prodesset mei. Ad erant clita sanctus nam, ius ad liber elaboraret, dicant eleifend vel ei. Ipsum epicurei delicata ea vim. Nominavi deserunt ei his. Rebum autem qualisque in nec, civibus splendide similique ut has.
 '''
 server_port = 10000
-server_port = 2018
 
 unit_list = ['', 'K', 'M', 'G']
 
