@@ -1,3 +1,13 @@
+# 🚩 Abandoned 🚩
+
+In the time since I wrote this project, I've learned about `iperf3`. Available on most Linux distros and on Windows:
+
+https://iperf.fr/iperf-download.php
+
+While this was a fun exercize, for practical testing, I have turned to using `iperf3` instead.
+
+---
+
 # PythonLANSpeedTest
 A Python based network speed test for Local Area Networks (script or pinch-hitter must be run on two separate computers)
 
