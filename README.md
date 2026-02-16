@@ -4,7 +4,7 @@ In the time since I wrote this project, I've learned about `iperf3`. Available o
 
 https://iperf.fr/iperf-download.php
 
-While this was a fun exercize, for practical testing, I have turned to using `iperf3` instead.
+While this was a fun exercise, for practical testing, I have turned to using `iperf3` instead.
 
 ---
 
